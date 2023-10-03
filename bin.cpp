@@ -20,7 +20,7 @@ int main()
     int n=0,key=0;
     cin>>n;
     
-    int a[n];
+    int a[5];
     for(int i=0;i<n;i++)
     cin>>a[i];
     cin>>key;
